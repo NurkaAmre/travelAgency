@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="./assets/travelly.jpeg" width="500" title="hover text">
-  <img src="./assets/travelly2.jpeg" width="500" alt="accessibility text">
-  <img src="./assets/tarvelly3.jpeg" width="500" alt="accessibility text">
-  <img src="./assets/tarvell4.jpeg" width="500" alt="accessibility text">
+  <img src="./assets/travelly.jpeg" width="700" title="hover text">
+  <img src="./assets/travelly2.jpeg" width="700" alt="accessibility text">
+  <img src="./assets/travelly3.jpeg" width="700" alt="accessibility text">
+  <img src="./assets/travell4.jpeg" width="700" alt="accessibility text">
 </p>
 
 <!-- TABLE OF CONTENTS -->
