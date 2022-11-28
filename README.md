@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="./asset/travelly.jpeg" width="500" title="hover text">
-  <img src="./asset/travelly2.jpeg" width="500" alt="accessibility text">
-  <img src="./asset/tarvelly3.jpeg" width="500" alt="accessibility text">
-  <img src="./asset/tarvell4.jpeg" width="500" alt="accessibility text">
+  <img src="./assets/travelly.jpeg" width="500" title="hover text">
+  <img src="./assets/travelly2.jpeg" width="500" alt="accessibility text">
+  <img src="./assets/tarvelly3.jpeg" width="500" alt="accessibility text">
+  <img src="./assets/tarvell4.jpeg" width="500" alt="accessibility text">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -37,7 +37,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Travelly]** is a travel agency which helps people organize their travel.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -174,21 +174,13 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Nurgul**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/NurkaAmre)
+- Twitter: [@twitterhandle](https://twitter.com/AmreNurgul)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amre-nurgul/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
